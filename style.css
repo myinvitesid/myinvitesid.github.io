@@ -12,7 +12,6 @@
     /* Untility */
     .tombol{
         text-transform: uppercase;
-        margin-right: 30px;
         border-radius: 50px;
     }
 
@@ -160,7 +159,7 @@
 .about-panel img {
     width: 30px;
     height: 30px;
-    margin-left: 30px;
+    margin-left: 20px;
 
     
 }
@@ -172,7 +171,7 @@
 }
 .about-panel span {
     font-size: 12px;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .footer {
@@ -215,6 +214,9 @@
         font-size: 64px;
     }
 
+    .tombol {
+        margin-left: 30px;
+    }
     .info-panel{
     margin-top: -120px;
     }
